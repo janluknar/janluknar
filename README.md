@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ján's GitHub stats](https://github-readme-stats.vercel.app/api?username=janluknar&hide=contribs,prs&theme=synthwave)
 
 [![jluknar's 42 stats](https://badge42.herokuapp.com/api/stats/jluknar-?privacyEmail=true)](https://github.com/janluknar)
 
