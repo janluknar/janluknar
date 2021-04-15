@@ -1,4 +1,4 @@
-### Welcome to my public code repository 🗿
+## Welcome to my public code repository 🗿
 
 <!--
 **janluknar/janluknar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/62260003/114859422-04e62880-9deb-11eb-924d-a913c3352830.png)
 
 ![Ján's GitHub stats](https://github-readme-stats.vercel.app/api?username=janluknar&hide=contribs,prs&theme=synthwave)
 [![jluknar's 42 stats](https://badge42.herokuapp.com/api/stats/jluknar-?privacyEmail=true)](https://github.com/janluknar)
