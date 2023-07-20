@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![Ján's GitHub stats](https://github-readme-stats.vercel.app/api?username=janluknar&hide=contribs,prs&theme=synthwave)
 
-[![jluknar's 42 stats](https://badge42.herokuapp.com/api/stats/jluknar-?privacyEmail=true)](https://github.com/janluknar)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janluknar&langs_count=7&layout=compact&hide=objective-c&theme=synthwave)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A1n-lukn%C3%A1r-gil-4a381b20b/)
